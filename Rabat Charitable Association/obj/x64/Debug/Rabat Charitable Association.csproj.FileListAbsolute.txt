@@ -1,0 +1,48 @@
+G:\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe.config
+G:\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe
+G:\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.pdb
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.AssemblyReference.cache
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form1.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form2.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form3.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form4.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form5.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.main_page.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Properties.Resources.resources
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.GenerateResource.cache
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.CoreCompileInputs.cache
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.exe
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.pdb
+G:\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form6.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe.config
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.pdb
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.AssemblyReference.cache
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form1.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form2.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form3.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form4.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form5.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form6.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.main_page.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Properties.Resources.resources
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.GenerateResource.cache
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.CoreCompileInputs.cache
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.exe
+H:\Other computers\My Computer\visual studio\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.pdb
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe.config
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.exe
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\bin\x64\Debug\Rabat Charitable Association.pdb
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.AssemblyReference.cache
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form1.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form2.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form3.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form4.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form5.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Form6.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.main_page.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat_Charitable_Association.Properties.Resources.resources
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.GenerateResource.cache
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.csproj.CoreCompileInputs.cache
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.exe
+C:\Users\mohammad\Desktop\final project\Rabat Charitable Association\obj\x64\Debug\Rabat Charitable Association.pdb
