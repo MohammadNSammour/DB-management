@@ -38,21 +38,21 @@ A C# Windows Forms (.NET Framework) application built to manage and visualize da
 
 ---
 
-## 📜 License & Usage
+## License & Usage
 
 This project is **open-source and free to use**.  
 If you wish to **modify or redistribute** this application, please contact the author for permission or discussion on the social media links or by message my email.
 
 ---
 
-## 👤 Author
+## Author
 
 Developed by **Mohammad nafiz sammour**  
 For academic, organizational, or nonprofit purposes.
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
 - Role-based access (Admin/User)
 - Export reports to PDF/Excel
